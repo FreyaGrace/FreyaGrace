@@ -14,20 +14,20 @@ Drawing, Painting, baking, HTML, C++
 ## 🧠 I'm currently learning ...
  C++, Pyton, Java
 
-## Other Common Github Profile Sections
+## 😄 Pronouns 
+she/her
 
-😄 Pronouns she/her
-
- 🏇Hobbies..
-    -Travelling\
-    -Watching anime\
-    -Reading manga/manhwa\
+## 🏇Hobbies..
+    -Travelling
+    -Watching anime
+    -Reading manga/manhwa
     -Baking
-⚡️ Fun fact...\
-    - I get anxious in crowds and much prefer one on one interactions.\
-    - I love to do extreme sports such as indoor skydiving and horse riding\
+    
+## ⚡️ Fun fact...
+    - I get anxious in crowds and much prefer one on one interactions.
+    - I love to do extreme sports such as indoor skydiving and horse riding
     - My all time favourite anime is One piece and Soul Eater
-    -I'm a carat!
+    -I'm a carat!😉
 
 
 ## 🔗How to reach me:
