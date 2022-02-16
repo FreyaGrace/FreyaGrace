@@ -5,7 +5,7 @@
 
 
 ## 🚀 About Me
-I am a first year college student studying a bachelor degree in Computer Science at West Visayas State University. Ever since I was a kid I have always been drawn to computers and have always been interested in working with the computers. Most especially in web development and ai machinery because it can solve our day-to-day problems, optimizes process and because it enhances the speed of the human's efforts.
+I am a first year college student studying a bachelor degree in Computer Science at West Visayas State University. Ever since I was a kid I have always been drawn to computers and have always been interested in working with the computers. Most especially in web development and ai machinery because it can solve our day-to-day problems, optimizes processes and because it enhances the speed of the human's efforts.
 
 
 ## 🛠 Skills
