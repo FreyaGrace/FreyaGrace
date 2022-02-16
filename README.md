@@ -26,8 +26,8 @@ she/her
 ## ⚡️ Fun fact...
     - I get anxious in crowds and much prefer one on one interactions.
     - I love to do extreme sports such as indoor skydiving and horse riding
-    - My all time favourite anime is One piece and Soul Eater
-    -I'm a carat!😉
+    - My all time favourite anime are One piece and Soul Eater
+    - I'm a carat!😉
 
 
 ## 🔗How to reach me:
