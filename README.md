@@ -5,14 +5,13 @@
 
 
 ## 🚀 About Me
-I am a first year college student studying a bachelor degree in Computer Science at West Visayas State University. Ever since I was a kid I have always been drawn to computers and have always been interested in working with the computers. Most especially in web development and ai machinery because it can solve our day-to-day problems, optimizes processes and because it enhances the speed of the human's efforts.
-
+I hold a background in Computer Science from West Visayas State University with a strong passion for technology and innovation. Since childhood, I have been fascinated by the transformative potential of computers. My primary interests lie in web development and artificial intelligence, where I leverage technology to solve real-world problems, streamline processes, and enhance productivity through innovative solutions
 
 ## 🛠 Skills
-Drawing, Painting, baking, HTML, C++
+ C++, Flutter, Machine Learning, Web Development, Python
 
 ## 🧠 I'm currently learning ...
- C++, Pyton, Java
+ React, Django, JavaScript
 
 ## 😄 Pronouns 
 she/her
