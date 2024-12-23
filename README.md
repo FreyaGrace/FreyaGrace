@@ -1,4 +1,7 @@
- ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ <div style="text-align: center;">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Alt Text">
+</div>
+
 
 
 # Hi, I'm Fatima Grace! 👋
